@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-notes-url",
+	"name": "Copy Note URL",
+	"version": "1.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Copy a note's url based on predefined domain and file extension.",
+	"author": "Juliusz Fedyk",
+	"authorUrl": "https://github.com/juliuszfedyk",
+	"isDesktopOnly": false
+}
