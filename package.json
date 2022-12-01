@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-copy-note-url-plugin",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "This is a plugin for Obsidian (https://obsidian.md) that allows the user to easily copy a link to a published version of the note.",
 	"main": "main.js",
 	"scripts": {
