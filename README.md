@@ -5,8 +5,7 @@ This plugin is usefull when you publish your notes in some custom way. Like usin
 -   Ads one command: copy-note-url - copies the published note's link into the user's clipboard.
 -   Ads one Ribbon Button: does the same as above.
 
-
-
 ## links:
-- [Obsidian](https://obsidian.md/)
-- based on [obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin)
+
+-   [Obsidian](https://obsidian.md/)
+-   based on [obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin)
